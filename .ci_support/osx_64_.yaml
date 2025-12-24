@@ -19,7 +19,7 @@ cxx_compiler:
 cxx_compiler_version:
 - '19'
 libhwloc:
-- 2.11.2
+- 2.12.2
 llvm_openmp:
 - '19'
 macos_machine:
